@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarineProject</string>
+    <string name="sos_call">SOS CALL</string>
+    <string name="location_toast">This is my Location!</string>
+</resources>
